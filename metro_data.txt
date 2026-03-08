@@ -1,0 +1,167 @@
+station_list:
+janakpuri west,m01
+dabri mor - janakpuri south,m02
+dashrathpuri,m03
+palam,m04
+sadar bazar cantonment,m05
+terminal 1-igi airport,m06
+shankar vihar,m07
+vasant vihar,m08
+munirka,m09
+r.k.puram,m10
+iit,m11
+hauz khas,m12
+panchsheel park,m13
+chirag delhi,m14
+greater kailash,m15
+nehru enclave,m16
+kalkaji mandir,m17
+okhla nsic,m18
+sukhdev vihar,m19
+jamia millia islamia,m20
+okhla vihar,m21
+jasola vihar shaheen bagh,m22
+kalindi kunj,m23
+okhla bird sanctuary,m24
+botanical garden,m25
+dwarka sector - 21,b01
+dwarka sector - 8,b02
+dwarka sector - 9,b03
+dwarka sector - 10,b04
+dwarka sector - 11,b05
+dwarka sector - 12,b06
+dwarka sector - 13,b07
+dwarka sector - 14,b08
+dwarka,b09
+dwarka mor,b10
+nawada,b11
+uttam nagar west,b12
+uttam nagar east,b13
+janakpuri west,b14
+janakpuri east,b15
+tilak nagar,b16
+subhash nagar,b17
+tagore garden,b18
+rajouri garden,b19
+ramesh nagar,b20
+moti nagar,b21
+kirti nagar,b22
+shadipur,b23
+patel nagar,b24
+rajendra place,b25
+karol bagh,b26
+jhandewalan,b27
+ramakrishna ashram marg,b28
+rajiv chowk,b29
+barakhamba road,b30
+mandi house,b31
+supreme court,b32
+indraprastha,b33
+yamuna bank,b34
+akshardham,b35
+mayur vihar -i,b36
+mayur vihar extension,b37
+new ashok nagar,b38
+noida sector-15,b39
+noida sector-16,b40
+noida sector-18,b41
+botanical garden,b42
+golf course,b43
+noida city centre,b44
+sector - 34 noida,b45
+sector - 52 noida,b46
+sector - 61 noida,b47
+sector - 59 noida,b48
+sector - 62 noida,b49
+noida electronic city,b50
+yamuna bank,b51
+laxmi nagar,b52
+nirman vihar,b53
+preet vihar,b54
+karkarduma,b55
+anand vihar isbt,b56
+kaushambi,b57
+Vaishali,b58
+
+time_diff:
+m01m02,5
+m02m03,5
+m03m04,2
+m04m05,4
+m05m06,3
+m06m07,3
+m07m08,3
+m08m09,3
+m09m10,2
+m10m11,2
+m11m12,2
+m12m13,3
+m13m14,2
+m14m15,2
+m15m16,2
+m16m17,2
+m17m18,2
+m18m19,2
+m19m20,2
+m20m21,2
+m21m22,5
+m22m23,5
+m23m24,2
+m24m25,3
+b01b02,3
+b02b03,2
+b03b04,2
+b04b05,2
+b05b06,2
+b06b07,2
+b07b08,2
+b08b09,2
+b09b10,3
+b10b11,3
+b11b12,3
+b12b13,3
+b13b14,3
+b14b15,3
+b15b16,3
+b16b17,3
+b17b18,3
+b18b19,3
+b19b20,3
+b20b21,3
+b21b22,3
+b22b23,3
+b23b24,3
+b24b25,3
+b25b26,3
+b26b27,3
+b27b28,3
+b28b29,3
+b29b30,2
+b30b31,2
+b31b32,2
+b32b33,2
+b33b34,2
+b34b35,3
+b35b36,3
+b36b37,3
+b37b38,3
+b38b39,3
+b39b40,3
+b40b41,3
+b41b42,3
+b42b43,3
+b43b44,3
+b44b45,3
+b45b46,3
+b46b47,3
+b47b48,3
+b48b49,3
+b49b50,3
+b50b51,3
+b51b52,3
+b52b53,5
+b53b54,2
+b54b55,2
+b55b56,2
+b56b57,2
+b57b58,2
